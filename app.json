@@ -1,0 +1,22 @@
+#    This file is part of the ChannelAutoForwarder distribution (https://github.com/xditya/ChannelAutoForwarder).
+#    Copyright (c) 2021 Adiya
+#    
+#    This program is free software: you can redistribute it and/or modify  
+#    it under the terms of the GNU General Public License as published by  
+#    the Free Software Foundation, version 3.
+# 
+#    This program is distributed in the hope that it will be useful, but 
+#    WITHOUT ANY WARRANTY; without even the implied warranty of 
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+#    General Public License for more details.
+# 
+#    License can be found in < https://github.com/xditya/ChannelAutoForwarder/blob/main/License> .
+
+# Do not copy the license into the .env file
+# Do not use quotes (") in the values.
+
+APP_ID=3018250
+API_HASH=a829068a8ca3b1027e444e9358fc2134
+BOT_TOKEN=1839588521:AAFfMJekjxciHAX6Hf078Qa2g_XipeRg5dg
+FROM_CHANNEL=-1001160495771
+TO_CHANNEL=-1001292421910
